@@ -9,7 +9,7 @@ import gui.Gui;
 
 /**
  *
- * @author LN710Q
+ * @author kaztro
  */
 public class Carrera {
 

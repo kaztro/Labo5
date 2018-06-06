@@ -9,7 +9,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author LN710Q
+ * @author kaztro
  */
 public class AnimalThread extends Thread{
     private String nombre;

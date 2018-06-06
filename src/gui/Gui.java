@@ -16,7 +16,7 @@ import threads.AnimalThread;
 
 /**
  *
- * @author LN710Q
+ * @author kaztro
  */
 public class Gui extends JFrame{
     private JLabel [] labels;
